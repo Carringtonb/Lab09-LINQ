@@ -1,0 +1,14 @@
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/bin/Debug/netcoreapp3.1/Lab09-LINQ.deps.json
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/bin/Debug/netcoreapp3.1/Lab09-LINQ.runtimeconfig.json
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/bin/Debug/netcoreapp3.1/Lab09-LINQ.runtimeconfig.dev.json
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/bin/Debug/netcoreapp3.1/Lab09-LINQ.dll
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/bin/Debug/netcoreapp3.1/Lab09-LINQ.pdb
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.csprojAssemblyReference.cache
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.csproj.CoreCompileInputs.cache
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.AssemblyInfoInputs.cache
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.AssemblyInfo.cs
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.csproj.CopyComplete
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.dll
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.pdb
+/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/obj/Debug/netcoreapp3.1/Lab09-LINQ.genruntimeconfig.cache
