@@ -40,7 +40,7 @@ Then select and open ```Lab09-LINQ.sln```
 ![all-results](img width="1440" alt="Screen Shot 2020-03-30 at 12 17 21 PM" src="https://user-images.githubusercontent.com/58369033/77955186-9dfbdd00-7284-11ea-8ed7-98ee1953917e.png")
 
 ### Change Log
-
+* Pair Programmed with Teddy Damian and Sue Tarazi
 1.2: *Updated README 3/30/2020 
 
 1.1: *Built program - 3/30/2020 
