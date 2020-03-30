@@ -35,7 +35,7 @@ Then select and open ```Lab09-LINQ.sln```
 ***[Add screenshots of your application in action]***
 
 #### Filtered for no duplicates
-![39-results](https://user-images.githubusercontent.com/58369033/77951849-8c640680-727f-11ea-879e-9380b7bfeec9.png")
+![39-results]("https://user-images.githubusercontent.com/58369033/77951849-8c640680-727f-11ea-879e-9380b7bfeec9.png")
 
 
 ---
