@@ -23,6 +23,9 @@ namespace Lab09_LINQ
             Console.WriteLine("Hello World!");
             newQuery(rootObject);
         }
+
+        // Question 1 ==========
+
         /// <summary>
         /// creates a JObject using streamreader
         /// </summary>
@@ -36,6 +39,9 @@ namespace Lab09_LINQ
                 return jList;
             }
         }
+
+        // Question 2 ============
+
         /// <summary>
         /// Queries the JSON file and outputs all neighborhoods that have a name
         /// </summary>
@@ -58,6 +64,8 @@ namespace Lab09_LINQ
                     Console.WriteLine($"{count}: {neighborhood}, \n");
                 }
             }
+
+            // Question 3 ============
             var filtered = allNeighbor.Distinct();
             count = 0;
             foreach (string filteredHoods in filtered)
@@ -72,6 +80,8 @@ namespace Lab09_LINQ
                     Console.WriteLine($"{count}: {filteredHoods}");
                 };
             }
+
+            // Question 4 ============
             var oneQuery = allNeighbor.Where(x => x != "").Distinct();
             count = 0;
             foreach (string neighborhood in oneQuery)
@@ -79,6 +89,8 @@ namespace Lab09_LINQ
                 count++;
                 Console.WriteLine($"{count}: { neighborhood}, \n");
             }
+
+            //Question 5 ============
 
             var inlineQuery = (from item in rootObject.features where item.properties.neighborhood != "" select item.properties.neighborhood).Distinct();
 
