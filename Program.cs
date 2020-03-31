@@ -32,7 +32,7 @@ namespace Lab09_LINQ
         /// <param name=“path”></param>
         /// <returns>JObject</returns>
         public static JObject CreateJObject(string path)
-        {
+        {     
             using (StreamReader sr = File.OpenText(path))
             {
                 JObject jList = (JObject)JToken.ReadFrom(new JsonTextReader(sr));
