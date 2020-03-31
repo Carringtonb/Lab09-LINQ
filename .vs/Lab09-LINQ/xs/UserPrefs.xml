@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D7408BC5-D7F4-4946-A15A-8170A219F175}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="89" Column="53" />
+      <File FileName="data.json" />
+      <File FileName="Classes/Geometry.cs" />
+      <File FileName="Classes/Features.cs" />
+      <File FileName="Classes/Properties.cs" />
+      <File FileName="Classes/RootObjects.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab09-LINQ" expanded="True">
+            <Node name="Lab09-LINQ" expanded="True">
+              <Node name="Classes" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab09-LINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

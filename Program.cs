@@ -13,7 +13,7 @@ namespace Lab09_LINQ
     {
         static void Main(string[] args)
         {
-            string path = @"/Users/carringtonbeard/codefellows/401/Lab09-LINQ/Lab09-LINQ/data.JSON";
+            string path = "../../../data.JSON";
        
 
             JObject jObject = CreateJObject(path);
@@ -78,6 +78,15 @@ namespace Lab09_LINQ
             {
                 count++;
                 Console.WriteLine($"{count}: { neighborhood}, \n");
+            }
+
+            var inlineQuery = (from item in rootObject.features where item.properties.neighborhood != "" select item.properties.neighborhood).Distinct();
+
+            count = 0;
+            foreach (string hood in inlineQuery)
+            {
+                count++;
+                Console.WriteLine($"{count}: {hood}");
             }
         }
 
